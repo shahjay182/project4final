@@ -1,19 +1,16 @@
 {
-  "companyName": "I Scream Inc.",
-  "headOffice": "South Pole, Antarctica",
-  "established": 2001,
+  "companyName": "3 Megic Products",
+  "headOffice": "Barrie, Canada",
+  "established": 1996,
   "active": true,
   "topFlavors": [
     {
-      "name": "Monstrous Mint",
+      "name": "1,500 live ladybugs",
       "calories": 400,
-      "type": "ice cream",
-      "ingredients": [
-        "peppermint cream",
-        "dark chocolate chips",
-        "vanilla extract"
-      ],
-      "image": "chocolate-mint.svg"
+      "type": "Bugs",
+      "ingredients": "Who says you can’t buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+      "image": "chocolate-mint.svg",
+      "price": "$3.05"
     },
     {
       "name": "Perfect Peach Mango",
