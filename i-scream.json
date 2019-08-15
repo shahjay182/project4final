@@ -8,21 +8,21 @@
       "name": "1,500 live ladybugs",
       "type": "Bugs",
       "ingredients": "Who says you can’t buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
-      "image": "chocolate-mint.svg",
+      "image": "live-ladybugs.jpeg",
       "price": "$3.05"
     },
     {
       "name": "A peanut butter and jelly of the month club",
       "type": "sorbet",
       "ingredients": "If you’ve ever thought to yourself, “Spreading peanut butter and jelly on bread is too time-consuming,” Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
-      "image": "peach-mango.svg",
+      "image": "penutbutter.jpeg",
       "price": "$468.96"
     },
     {
       "name": "A bacon-scented mustache",
       "type": "Mustache",
       "ingredients": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
-      "image": "strawberry-sprinkle.svg",
+      "image": "musche.jpeg",
       "price": "$4.07"
     }
   ]
