@@ -6,33 +6,24 @@
   "topFlavors": [
     {
       "name": "1,500 live ladybugs",
-      "calories": 400,
       "type": "Bugs",
       "ingredients": "Who says you can’t buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
       "image": "chocolate-mint.svg",
       "price": "$3.05"
     },
     {
-      "name": "Perfect Peach Mango",
-      "calories": 350,
+      "name": "A peanut butter and jelly of the month club",
       "type": "sorbet",
-      "ingredients": [
-        "peach purée",
-        "mango chunks",
-        "clover honey"
-      ],
-      "image": "peach-mango.svg"
+      "ingredients": "If you’ve ever thought to yourself, “Spreading peanut butter and jelly on bread is too time-consuming,” Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
+      "image": "peach-mango.svg",
+      "price": "$468.96"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
-      "type": "frozen yogurt",
-      "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
-      ],
-      "image": "strawberry-sprinkle.svg"
+      "name": "A bacon-scented mustache",
+      "type": "Mustache",
+      "ingredients": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+      "image": "strawberry-sprinkle.svg",
+      "price": "$4.07"
     }
   ]
 }
